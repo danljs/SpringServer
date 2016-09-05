@@ -5,10 +5,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>HelloWorld</title>
+<title>Hello Point</title>
 </head>
 <body>
-<a href="helloworld.html">Click here to read hello message </a>
+<a href="point.html">Click here to read do </a>
+<br/>
+<a href="login.ccc">Click here to login </a>
 </body>
 </html>
 
